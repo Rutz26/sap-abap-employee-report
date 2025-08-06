@@ -20,7 +20,11 @@ A classical report program in SAP ABAP to display employee details stored in a c
 | DOJ          | Date of Joining   | DATS     |
 
 ## Screenshot
-employee_report_output.png
+https://raw.githubusercontent.com/Rutz26/sap-abap-employee-report/d7ec8ed5826c4db215aeb307106aa34c2dc9a73e/employee_report_output.png
+
+**Created by:** Rutuja Ghumatkar
+**LinkedIn:**  https://www.linkedin.com/in/rutuja-ghumatkar/
+**Email:** rutujaghumatkar262@gmail.com
 
 
 
